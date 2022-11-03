@@ -13,6 +13,9 @@
 .date-bar > div {
   float: left;
   line-height: 34px;
+
+  font-weight: 200;
+  font-size: 18px;  
 }
 
 .date-bar > img {
