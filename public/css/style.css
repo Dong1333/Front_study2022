@@ -126,6 +126,17 @@ section > div.contents {
   width: 830px;
   height: 640px;
   background: white;
+
+  padding-top: 50px;
+  padding-left: 66px;
+
+  box-sizing: border-box;
+
+  font-family: 'S-Core Dream';
+  font-style: normal;
+
+  
+  color: #000000;
 }
 
 div.contents > div.user-name {
